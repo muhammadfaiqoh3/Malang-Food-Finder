@@ -1,0 +1,530 @@
+Nama,Harga,Rating,Jarak_KM,Kategori,Lat,Lon
+gang jangkrik,23898,3.9,2.1,Nasi,-7.957558,112.6379083
+cofe POM,24394,4.6,3.1,Kopi/Cafe,-7.9524465,112.6394961
+KFC,10748,4.8,4.7,Cemilan,-7.9751022,112.6195751
+Depot 69,9816,3.9,2.3,Ayam,-7.9386145,112.6339708
+Tempe Penyet Mbah Djayus,8681,4.1,2.4,Ayam,-7.9394648,112.6352131
+Bakso Bakar Trowulan,19210,3.8,1.5,Soto,-7.9412827,112.6381554
+Warung Cak Pi'i,10806,4.5,2.3,Mie,-7.9392792,112.6322109
+Sudi Mampir,18121,4.1,1.0,Kopi/Cafe,-7.9784361,112.6432617
+Bakso Solo Kidul Pasar,13306,4.8,2.0,Nasi,-7.9884486,112.6296827
+Bakso Bakar Pak Man Malangf,20986,4.8,0.9,Kopi,-7.9896005,112.63083
+Soto Daging Madura,20411,4.0,4.4,Ayam,-7.9885863,112.629437
+Warung Rujak Scui,17803,4.9,0.6,Nasi,-7.9878273,112.6293698
+Tahu Campur Ichwan,20092,4.7,3.5,Cemilan,-7.9872613,112.6302226
+Warung Facebook,16515,4.8,4.0,Kopi/Cafe,-7.9881602,112.6299181
+Warung Susu Kopi STMJ,27431,4.2,4.0,Kopi/Cafe,-7.9884645,112.6295442
+Warung Soto Pak Ali,18537,4.2,0.6,Bakso,-7.9882839,112.6299788
+Warung Bakso Lek Mi,18483,4.5,0.5,Nasi,-7.9873621,112.629304
+Urban Pop,16234,4.7,1.3,Kopi,-7.9744317,112.6577192
+Bakso Solo SMA 5 Malang,9280,4.6,4.4,Bakso,-7.9880321,112.6260186
+Warung Pecel Pak Mul,23087,4.7,2.5,Kopi,-7.990338,112.6272616
+Bakso Tek Wan,15618,4.1,4.2,Kopi,-7.9913948,112.6279303
+Soto Ayam Lombok Sulawesi,22556,4.5,1.8,Soto,-7.9882642,112.6256758
+Es Ketan SMKN 4 Malang,14402,4.4,3.8,Soto,-7.9899639,112.6269577
+Bakso Solo Petra,9673,4.8,1.0,Ayam,-7.9904278,112.63173
+Tahu Lontong Lamongan Nusakambangan,18245,4.5,2.0,Soto,-7.9882907,112.6278127
+Tahu Lontong Bu Ita,21831,4.0,1.3,Soto,-7.9876987,112.6287371
+Mie Pangsit Lezat Cak To,12092,4.1,2.5,Soto,-7.9880504,112.6272196
+Soto Ayam Sempu,13776,4.3,3.7,Cemilan,-7.9941376,112.6246876
+Double Six 66,28239,4.3,4.0,Kopi/Cafe,-7.9268277,112.6019638
+Ria Djenaka,35452,4.3,0.5,Kopi/Cafe,-7.9222431,112.5959582
+Otoy The Waroeng,20213,3.8,2.2,Kopi/Cafe,-7.9221676,112.5959289
+Paffee Coffee,15953,4.8,0.6,Kopi/Cafe,-7.9274959,112.6028748
+Benndoll Caffee,19441,4.6,1.8,Kopi/Cafe,-7.9214528,112.5951206
+Agil Coffee,42980,4.9,1.8,Kopi/Cafe,-7.923725,112.5986272
+Mimiq Koffie,19981,4.6,2.0,Kopi/Cafe,-7.9266382,112.6024304
+Arek-arek Cafe,33306,4.2,0.8,Kopi/Cafe,-7.9360207,112.6245666
+Cotton Co,22264,4.8,1.2,Kopi/Cafe,-7.9369824,112.6269133
+Calories,38715,4.0,2.3,Kopi/Cafe,-7.9375369,112.6280513
+Labore Coffee Eatery,23104,4.9,3.7,Kopi/Cafe,-7.9393279,112.630696
+Hobbies Kitchen,20426,4.9,2.7,Kopi/Cafe,-7.9392628,112.6305699
+Monkey Garage,42041,4.3,4.1,Kopi/Cafe,-7.938641,112.629104
+Levels,24660,4.0,0.6,Kopi/Cafe,-7.9392332,112.6364586
+Vosco Coffee,31088,4.8,2.2,Kopi/Cafe,-7.9401682,112.6376659
+Teko Coffee Shop,39516,4.8,1.8,Kopi/Cafe,-7.9537134,112.6319169
+Justice Corner,20658,4.5,0.6,Kopi/Cafe,-7.9561138,112.631717
+DW Coffee Shop,33496,4.6,2.7,Kopi/Cafe,-7.9617692,112.6210363
+Coffee Taste,35906,4.4,0.2,Kopi/Cafe,-7.960059,112.6326587
+Dapoer Mie Galau,9459,4.4,2.2,Bakso,-7.9547815,112.6334713
+Laritta Bakery Shop,16090,4.2,2.2,Kopi,-7.9660383,112.6374216
+Warung Wareg,14748,4.2,4.0,Mie,-8.0087451,112.6196038
+Pizza combi,21302,4.5,4.3,Soto,-7.9402254,112.6305753
+McDonald's,21110,4.1,4.2,Cemilan,-7.980841,112.630645
+Gadjah Mada,16247,4.3,2.1,Mie,-7.9874735,112.6320259
+Warung Soto Pak Amir,12180,4.0,1.7,Ayam,-7.9102308,112.6321355
+Bebek Gong CBK.,9349,4.2,2.8,Ayam,-7.9718181,112.6356155
+Kasih Karunia,10634,4.0,4.5,Soto,-7.923359,112.6509817
+Rumah Makan Gloria,12356,4.2,4.8,Bakso,-7.9841559,112.6336552
+Circle Cafe & Resto,31828,4.1,4.9,Kopi/Cafe,-7.9415165,112.6228244
+Bebek Goreng H. Slamet,15542,4.0,3.4,Mie,-7.9727218,112.6242995
+Ikan Bakar 52,19572,4.0,4.7,Kopi,-7.9840024,112.6330484
+Cak Tomo (seafood&lalapan),12973,3.9,3.4,Kopi,-7.9637248,112.6271134
+Tahu Telor Cahndeso,15376,4.5,0.1,Bakso,-7.9638312,112.614188
+Cafe Willis,17513,3.8,4.2,Kopi/Cafe,-7.9726345,112.6210244
+Dak-Galbi,18728,4.0,1.0,Kopi,-7.9696656,112.6176328
+Dunkin',12927,4.8,0.8,Bakso,-7.9819224,112.6318632
+"Kedai Robara (Roti bakar, coffee)",34597,4.2,4.3,Kopi/Cafe,-7.9581503,112.6208076
+Toko Oen,19953,3.9,4.7,Kopi,-7.980703,112.6302201
+Lafferie,15185,4.5,4.9,Ayam,-7.9703987,112.6032221
+Vegan Mie pPanjang,18332,4.3,0.5,Soto,-7.9538307,112.6456811
+Noch Coffee,23006,4.3,3.5,Kopi/Cafe,-7.9752515,112.6345537
+DPT KEDAWUNG,8856,4.5,0.4,Nasi,-7.9528037,112.6385522
+Kopi Tuju,21632,4.7,1.5,Kopi/Cafe,-7.9855925,112.6309825
+Starbucks,38904,4.7,1.5,Kopi/Cafe,-7.9735151,112.6119661
+J.Co,18200,4.6,0.3,Nasi,-7.9735001,112.6114521
+Ichiban Sushi,19401,4.7,3.0,Cemilan,-7.9737121,112.6118366
+Baskin-Robbins,13645,4.1,0.3,Nasi,-7.9739353,112.6117848
+Wendy's,10165,4.6,2.8,Soto,-7.9737596,112.6115398
+Rice Bowl,24750,4.3,2.2,Nasi,-7.9736606,112.6114342
+Kayungyun,9420,4.0,2.9,Cemilan,-7.9673904,112.6139532
+Soto Ayam Lamongan,21967,4.8,0.9,Mie,-7.9611816,112.6556827
+crispycornermalang,30384,4.8,3.5,Kopi/Cafe,-7.973452,112.6361108
+MAXIM STRONG RIDER,23608,4.8,4.6,Kopi/Cafe,-7.9736819,112.6556219
+Rest Area Maxim Freedom Malang,39118,4.4,4.0,Kopi/Cafe,-7.9269322,112.6500021
+MIE AMORFATI,38789,4.2,0.3,Kopi/Cafe,-8.0241689,112.6029282
+Kayungyun Warmindo Kebonsari Malang,23154,4.1,4.7,Cemilan,-8.0137743,112.620483
+Nasi Pecel Bu Tinuk,13396,4.1,2.3,Bakso,-7.9397385,112.6243243
+Pizza Hut Soehat Malang,21446,4.6,3.7,Cemilan,-7.9442717,112.6192818
+Gartenhouse,33804,4.0,4.4,Kopi/Cafe,-7.9352486,112.6117818
+Gado-Gado Dempo Aba Solikin,22397,4.3,0.6,Ayam,-7.9678387,112.6191725
+Pangsit Mie Dempo,8499,4.5,4.0,Soto,-7.9679316,112.6190902
+Gerai Es Dempo,14415,4.1,4.6,Soto,-7.967877,112.6191334
+Nasi Goreng Dempo,8519,4.9,4.5,Kopi,-7.9677085,112.619244
+Martabak Jointland,19621,4.6,1.8,Nasi,-7.9678568,112.6190228
+Gudang Durian Medan,21449,4.8,1.1,Cemilan,-7.9678074,112.6190487
+Soto Ayam Ambengan Asli Surabaya (Bu Keni),9772,4.8,3.3,Mie,-7.9720781,112.6331225
+Warung Es Degan,13464,3.9,1.4,Ayam,-8.037674,112.6391037
+DImsum Sewuan,18420,4.3,3.3,Nasi,-7.9854509,112.6346318
+Pizza Hut Delivery,14548,4.0,4.3,Cemilan,-7.999251,112.61886
+D'chareso,36250,4.6,3.2,Kopi/Cafe,-7.9452691,112.6508979
+Alur Rasa Malang,23768,4.3,4.8,Nasi,-7.9370915,112.6265666
+PKL Roti Goreng,21119,4.6,0.8,Cemilan,-7.9792153,112.6564195
+Warung Bali,8424,4.6,1.8,Mie,-7.9692478,112.6174622
+Bakso Kota Cak Man,17452,4.7,0.8,Kopi,-7.9668948,112.6379544
+Harmoni Cafe & Resto,30826,4.7,0.9,Kopi/Cafe,-7.9744377,112.6274338
+Taman Indie Resto,12162,4.7,1.5,Bakso,-7.9394374,112.664566
+KDS Cantonese Restaurant (KDS Ballroom) @Araya,13212,4.5,4.0,Nasi,-7.9403124,112.6621857
+Bebek Ayam Goreng Cabang Purnama,10920,4.0,2.3,Ayam,-7.9521049,112.6768052
+Bebek Tunjungan,14709,4.1,2.5,Ayam,-7.9643247,112.6695311
+Nasi Campur Madura Khas Bangkalan ( Nasi Petis ),18447,4.4,0.3,Soto,-7.9414607,112.6607008
+Ayam Bakar Pak D,22965,4.5,3.9,Cemilan,-7.9525462,112.6874975
+Warung Pecel Pak Awik,14582,4.4,3.9,Soto,-7.9721875,112.6590652
+Toko Jamu Bu Ana,9493,4.3,4.2,Ayam,-7.9645624,112.6691895
+Rujak Manis Semeru,10103,4.6,2.3,Ayam,-7.974056,112.617089
+Citra Kendedes Cake & Bakery,18820,4.3,0.5,Mie,-7.9607081,112.6500672
+Nasi Bakar Segobong,13920,4.7,4.4,Soto,-7.9713125,112.6579361
+Cocari Malang,16603,4.2,2.2,Mie,-7.9735627,112.614563
+Deni Bakso & Mie Ayam,16181,4.4,0.2,Nasi,-7.9305652,112.6478984
+Happy7Kitchen,13473,4.8,3.3,Nasi,-7.9955815,112.681854
+WR Bu Anie,18459,4.9,4.6,Mie,-7.9499319,112.6625761
+Bakwan Subur,19235,4.2,0.3,Kopi,-7.9363475,112.6359538
+Dapur 93,18588,4.5,2.1,Bakso,-7.9375999,112.6255489
+Mie Gacoan,17341,4.7,1.9,Mie,-7.9003713,112.662566
+Burger King,23222,4.4,2.5,Soto,-7.9643125,112.6253
+MAXIM RONGGOLAWE KLOJEN,29634,4.4,4.4,Kopi/Cafe,-7.9713748,112.643634
+Roti Gembong Gembul,9940,4.0,2.5,Soto,-7.9794567,112.6593424
+Madonna Bakery,18677,4.7,1.7,Kopi,-7.9805887,112.6569983
+Holland Bakery Sawojajar,17499,4.0,3.9,Ayam,-7.9803735,112.6567489
+Roti Gembung,16674,4.6,3.8,Mie,-7.9762724,112.6628077
+Mie Ayam & Bakso Solo,10944,4.7,0.5,Cemilan,-7.9658055,112.6676106
+Pusat Kuliner Araya,23546,4.8,2.2,Soto,-7.9342987,112.6510777
+Roti'O,21673,4.9,3.6,Nasi,-7.9776391,112.6370307
+Bakso Cak Toha,17053,4.9,2.2,Mie,-7.9767826,112.6369053
+Depot Nyaman,9355,4.9,2.7,Kopi,-7.9769226,112.6369405
+Rumah Makan Sinar Ulakan (Nasi Padang),24880,4.8,3.1,Soto,-7.978285,112.6370569
+Soto Basket Stasiun,23990,4.9,1.2,Bakso,-7.9781441,112.6370312
+Pusat Kuliner Sriwijaya,14640,4.5,2.7,Kopi,-7.9784517,112.6364083
+De Cozy,24063,4.2,0.4,Mie,-7.9482414,112.6117164
+Pudji Mulyo,9082,4.6,4.6,Mie,-7.9463676,112.6109848
+Amanda Brownies Talun,15561,4.4,3.5,Kopi,-7.9808411,112.6278292
+Waroeng Steak & Shake,9379,3.8,2.7,Kopi,-7.9464022,112.6181647
+Ada Apa Dengan Kopi?,12001,4.9,2.3,Bakso,-7.9607886,112.6231582
+HokBen Kitchen,22124,4.5,1.2,Cemilan,-7.9511568,112.639568
+Coffee Trunojoyo,31512,4.2,3.1,Kopi/Cafe,-7.9749024,112.6368286
+Pujasera Nusantara,9098,4.2,4.9,Kopi,-7.9375893,112.6584283
+Lafayette Coffee and Eatery,26172,4.9,2.8,Kopi/Cafe,-7.9762435,112.6291568
+Warung Kopi Pak Eko,23744,4.7,1.7,Bakso,-7.9339871,112.6512013
+Kedai Hewodz,20642,3.9,4.9,Mie,-7.9338459,112.6512605
+Kedai Lego,23555,4.6,0.6,Soto,-7.9339318,112.6512162
+Mutiara Tiga,10683,4.2,4.1,Ayam,-7.9338806,112.651233
+Citra Kendedes Bakery Sawojajar,20891,4.5,1.4,Mie,-7.9803934,112.65669
+Waroeng Tani,12988,4.1,1.3,Bakso,-7.9221851,112.5832734
+Warung Azril,16373,4.8,3.2,Mie,-7.9784828,112.6365028
+Warung P. Mul,14437,3.8,0.3,Mie,-7.9785085,112.6365325
+Ayam Panggang Sri,23075,4.3,3.4,Cemilan,-7.9781059,112.6364852
+Warung Cak Bowo,13403,4.7,1.2,Cemilan,-7.9780478,112.6364783
+Sambel Tempong,10097,3.8,1.5,Nasi,-7.9781957,112.6364954
+CFC,23391,4.7,1.7,Cemilan,-7.977693,112.6370411
+Warung Sari Laut Arby,24682,4.1,1.4,Mie,-7.9783661,112.6364852
+Warung Buk Nur,9786,4.2,2.4,Bakso,-7.9781426,112.6364701
+Warung Areza,21797,4.5,0.4,Mie,-7.9784169,112.6365062
+Warung Sumber Rejeky,13694,3.9,4.6,Mie,-7.9783212,112.6364852
+Warung Mapan 58,14007,4.5,4.4,Cemilan,-7.9782811,112.6364659
+Bakso Damas,13419,4.8,1.7,Kopi,-7.9384769,112.6252141
+hako,22245,4.4,0.2,Kopi/Cafe,-7.9373778,112.6266444
+Lapidoth,35795,4.1,3.4,Kopi/Cafe,-7.9833465,112.6298374
+Warung Mbah Riman Barokah,12609,4.1,1.5,Soto,-7.9413358,112.6377521
+Warteg Nasional Bahari,20463,4.9,1.0,Ayam,-7.9524808,112.6810498
+Rumah Makan Inggil,15262,4.1,0.4,Nasi,-7.9840103,112.6341995
+Klodjen Djaja,22457,4.6,2.5,Kopi/Cafe,-7.9732605,112.6367318
+Lapis Kukus,23885,4.8,0.3,Nasi,-7.9743679,112.6367869
+Sego Tempong by Cak Uut,20764,4.4,2.3,Kopi,-7.979327,112.6315711
+Hodai Ayce,24090,3.8,0.9,Cemilan,-7.9531361,112.6427698
+Waroeng Inggil,21571,4.3,1.0,Ayam,-7.9792064,112.5980118
+"Nasi Bali ""Bale Gede""",9512,4.7,0.5,Nasi,-7.9397752,112.6384652
+Warung Pak Di,20443,4.7,1.5,Cemilan,-7.9393495,112.6384015
+Vibes Cafe,38487,3.8,4.3,Kopi/Cafe,-7.9431101,112.6026707
+Mystic Coffe,34720,4.0,3.6,Kopi/Cafe,-7.9444581,112.6017428
+IQ Caffe,42921,4.7,0.8,Kopi/Cafe,-7.9446709,112.6017007
+Oase Cafe & Literacy,30293,4.5,0.9,Kopi/Cafe,-7.9450409,112.6016704
+Arthemis Coffe,31094,4.8,2.6,Kopi/Cafe,-7.9432695,112.6022214
+Ayam Geprek Cak Man 5000,15820,4.4,4.8,Cemilan,-7.9434766,112.6041025
+Toeman Cafe and Eatry,16721,4.4,2.6,Kopi/Cafe,-7.943587,112.6043272
+Warung Mie Ayam Solo,17822,4.2,1.6,Nasi,-7.9264826,112.6664755
+Hot Cui Mie,17109,3.8,4.3,Ayam,-7.9749226,112.6177051
+Martabak Pecenongan 78,19620,4.8,3.5,Cemilan,-7.974899,112.6176534
+Lapis Kukus Tugu Malang,16794,4.1,3.6,Bakso,-7.9748832,112.6176117
+Cafe Jamu Tradisional Fatimah 88,36604,4.4,4.5,Kopi/Cafe,-8.0024165,112.6307537
+Food Court Taman Sulfat,8941,3.8,2.2,Mie,-7.9606017,112.65028
+Warung Mbak Ani,21683,4.4,3.2,Mie,-7.9720262,112.6673645
+Sate Madura Bang Ipul,23373,4.2,0.7,Kopi,-7.956554,112.5990496
+Warung Barokah,19871,4.8,4.1,Kopi,-7.9459503,112.6785775
+Rumah Masakan Padang Harapan Jaya,15723,3.8,1.7,Ayam,-7.9635871,112.6560011
+Warung mie Ayam Jakarta Dan Bakso Barokah Jaya,16915,3.9,4.9,Cemilan,-7.9377394,112.675683
+Pengyu Kopitiam,15349,4.1,0.7,Kopi/Cafe,-7.9794963,112.6307808
+Mixue,29572,4.3,4.0,Kopi/Cafe,-7.9549362,112.606268
+Rawon Malaikat Potre Koneng,14196,4.8,2.2,Kopi,-7.970242,112.6622363
+Gerbang Keluar UB Watugong,17820,4.6,2.1,Soto,-7.9490314,112.6116028
+Fat Truck,24167,4.4,3.0,Ayam,-7.9631441,112.6354372
+Bakso Solo,13819,4.6,1.0,Soto,-7.9641399,112.6695919
+Bakso Kalimosodo,16728,4.7,0.8,Ayam,-7.97592,112.6598652
+Tipsy Lion Malang,22539,4.7,2.8,Kopi/Cafe,-7.944417,112.6198312
+Mi Gacoan Sawojajar,9583,4.5,1.4,Nasi,-7.981098,112.6537118
+Mixue Sawojajar Malang,11347,4.2,1.1,Kopi,-7.9790923,112.6593532
+Martabak Gudang Rasa,12403,4.6,2.7,Bakso,-7.9790724,112.6594324
+Ayam Benjos,14292,4.8,0.7,Bakso,-7.9794887,112.659232
+Depot 77 Sawojajar Halalan Toyiban,17505,4.0,1.7,Soto,-7.9783334,112.6670842
+Warmindo Sari Rasa,13616,3.9,0.3,Soto,-7.9367058,112.6378438
+Suco Ramen,20469,4.2,4.3,Mie,-7.95351,112.6965459
+Mifeng Kopitiam,18211,4.1,2.1,Nasi,-7.9630451,112.6257818
+Yoshinoya,21011,4.9,2.5,Soto,-7.9429071,112.6214094
+HokBen Kitchen Danau Toba Malang,18473,4.8,4.2,Mie,-7.980835,112.6538212
+Depot Mie Koh'Oen 5758,13742,4.2,1.0,Ayam,-7.9719373,112.6354916
+Kamulyan Tri's Pecel Stall,14763,4.2,2.5,Ayam,-7.9582526,112.6559988
+Warung Nasi Campur 14,20257,4.2,3.6,Kopi/Cafe,-7.957926,112.66111
+H&U Coffee and Eatery,44870,3.8,3.5,Kopi/Cafe,-7.9796195,112.6312901
+Warteg Tegal,17305,3.9,2.9,Kopi,-7.9420122,112.6382312
+Laoban Kopitiam,13762,4.9,1.8,Mie,-7.940719,112.6300516
+Warung Prasmanan Kamelia Kedungkandang,24836,4.1,1.5,Kopi,-8.036809,112.636055
+Bubur Ayam Agus,10469,4.0,4.8,Cemilan,-7.9706768,112.6163251
+Resto Putu Sari,16850,4.3,1.0,Soto,-7.9726931,112.6204602
+Morning Mate,15133,4.9,3.3,Kopi/Cafe,-7.9410313,112.6376533
+Sumbersareh,21290,3.9,3.1,Cemilan,-7.9739394,112.6042511
+Nge-Luck Food & Drink Malang,12824,4.1,3.5,Mie,-7.8982816,112.6202567
+Nakoa Coffee Suhat,15397,4.9,2.5,Kopi/Cafe,-7.9363627,112.6247851
+Tirto Indah B4,19855,4.2,0.1,Kopi/Cafe,-7.9343113,112.6754122
+Kayungyun & Resto,19422,4.5,3.3,Soto,-8.0341702,112.6427081
+Es Coklat Susu Sempol Haujeek,12596,4.6,0.2,Mie,-8.0373346,112.6384201
+Akira San Takoyaki Okonomiyaki,14481,4.4,0.6,Kopi,-8.0373341,112.6384333
+Kedai Kopi tjapGiling,44364,3.8,4.3,Kopi/Cafe,-7.9574302,112.6012522
+Kopi Hamur Mbah Indut,32907,4.3,4.3,Kopi/Cafe,-7.9789353,112.6282292
+Kopi Handall,34941,4.3,0.1,Kopi/Cafe,-7.9476084,112.6202459
+Soto Ayam Babon Pak Imam,20289,4.8,3.6,Bakso,-7.9582065,112.6113917
+Cigyl and Craft,15154,4.0,4.2,Kopi/Cafe,-7.972,112.6208525
+Warmindo Mami,11153,4.2,3.3,Nasi,-7.9364885,112.6270577
+Jasa Ayah,24444,4.2,3.3,Mie,-7.9402649,112.6358678
+Dapoer Limboek,24573,4.6,2.6,Bakso,-7.9667075,112.6290387
+Kopi Wojo,26588,4.1,3.9,Kopi/Cafe,-7.9789964,112.6288045
+Bima Bakery,14683,4.4,1.5,Ayam,-7.9793992,112.6294271
+Rumah Jengki,15561,4.3,0.4,Nasi,-7.9783624,112.6288196
+Cokelat Majapahit,42018,4.6,0.3,Kopi/Cafe,-7.9785864,112.6289995
+mera.,25829,4.7,3.6,Kopi/Cafe,-7.9796152,112.6280396
+Bougenville Cafe,40038,4.6,2.3,Kopi/Cafe,-7.9800621,112.6273038
+Basra Kitchen,42816,4.7,5.0,Kopi/Cafe,-7.9783601,112.6286547
+Hamur Utea,31333,4.7,1.6,Kopi/Cafe,-7.9781954,112.6296551
+Coto Makassar,10157,4.8,2.8,Kopi,-7.9797772,112.627022
+Soto Gunung Mbah Djie,20753,4.6,3.3,Mie,-7.9579576,112.6107049
+Kedai Milo Nusantara,44400,4.8,1.9,Kopi/Cafe,-7.9570909,112.6092425
+Bakso Malang Cak Cull Sigura-Gura,24855,4.7,3.9,Soto,-7.9577427,112.6075932
+Shugoku Cabang Malang 1,14809,4.2,2.5,Ayam,-7.9577108,112.6074063
+Beken - Bebek Kendang,13584,4.0,2.5,Kopi,-7.9576662,112.6065554
+Domino's,9323,4.5,2.7,Kopi,-7.9924234,112.6207514
+Nasi Balinya Kak!!,13872,3.8,2.4,Mie,-7.9575033,112.6066995
+Cowcow Steak - Soekarno Hatta,23810,4.8,1.4,Soto,-7.9427999,112.6215441
+Toko Oranye,15130,4.3,3.7,Mie,-7.9793389,112.6565009
+"Toko Bahan Kue ""Laris""",19034,4.9,1.4,Cemilan,-7.9803415,112.6568095
+Dea Bakery,19204,4.4,0.6,Mie,-7.9834513,112.6092298
+Lalapan Mama Sisca,15234,4.1,3.2,Cemilan,-7.9764617,112.5918581
+Warung Nafisa,9421,3.8,2.3,Kopi,-7.9782768,112.592553
+Kedai Kopi Kaito,18573,3.9,0.3,Kopi/Cafe,-7.9793095,112.5983136
+Malibu Steak ‘n’ Pizza,17230,4.8,1.7,Cemilan,-7.9738608,112.6163745
+Ayam Bakar KQ - 5,20436,4.7,1.5,Cemilan,-7.9740017,112.6164744
+Pempek Ny. Kamto,13538,4.8,2.4,Kopi,-7.9741178,112.6167524
+Teman Nongkrong Malang,18469,4.3,3.2,Kopi/Cafe,-7.9672043,112.6339554
+Holland Bakery,14757,4.3,1.8,Ayam,-7.9672685,112.6340865
+Kupang Kraton Hj. Qomariyah,10093,4.1,1.1,Nasi,-7.9673459,112.6336253
+Warung Amanah,10494,4.1,3.6,Soto,-7.9818289,112.6026267
+Hisana Fried Chicken,10225,4.6,3.1,Nasi,-7.9822967,112.6034852
+Warung Kanew Gitomamisu,18637,4.3,1.7,Soto,-7.9719643,112.6357929
+Gado-Gado Pak Gatot,17446,4.1,2.0,Nasi,-7.9715383,112.635739
+Warung Pojok Pak Bakri,24762,4.4,4.9,Kopi,-7.9715195,112.6357356
+The Harvest Express,15405,3.8,1.2,Bakso,-7.9745813,112.6178214
+Kedai Raos Marem,22499,4.3,3.1,Ayam,-7.9737306,112.6156466
+Hardcore Internet Lounge,8730,4.0,3.4,Bakso,-7.9736708,112.6132385
+Burger Bangor,19672,4.5,3.1,Mie,-7.9741101,112.6127604
+Warung Bu Eko,14857,4.7,0.2,Ayam,-7.9743777,112.588119
+Warung Bu Laseni,22780,4.2,1.5,Ayam,-7.9796589,112.5986835
+Warung Bunda Cua,22476,4.3,2.6,Cemilan,-7.9799168,112.5988616
+Sei Babi & Sate Babi Flobamora,11892,4.7,2.5,Bakso,-7.9767719,112.6126805
+Sate Ayam Mas Rizal,8333,4.1,3.4,Mie,-7.9768169,112.612682
+Mie Time,21267,3.9,4.7,Kopi,-7.9708515,112.5944072
+Peco Peco Sushi,14313,4.3,2.1,Nasi,-7.9723325,112.6171654
+Bakso Ndeso Malang,23710,4.8,4.0,Bakso,-7.9723389,112.6170671
+Tumbazz Kopi,25209,4.7,0.9,Kopi/Cafe,-7.9723341,112.6171203
+Sego Sambel Nyi Geni,11139,4.1,1.7,Bakso,-7.9747981,112.6184361
+Miami Chicken,11073,4.3,4.3,Ayam,-7.9595556,112.6322239
+"Dpalem Warung prasmanan, cafe dan kolam renang",9185,4.8,4.5,Soto,-7.9299393,112.6655349
+Bakso Kota Cak man,9426,4.8,3.8,Ayam,-7.9510585,112.6396122
+Roti Bakar Bang Aji,10559,4.8,4.5,Kopi,-7.9440985,112.5824819
+NK Cafe,19152,4.4,3.4,Kopi,-7.9142767,112.608053
+Geprek Sa'i,24591,3.9,2.8,Kopi,-7.9591078,112.5989974
+Warung Pecel Blitar Mba Nita,24405,4.8,0.5,Cemilan,-7.9341471,112.6511701
+Point Coffee,16589,4.5,2.1,Kopi/Cafe,-7.9874881,112.6253066
+Warung Bu Ana,24017,4.9,4.2,Soto,-7.9673529,112.6330479
+CASA,14872,4.3,0.1,Bakso,-7.9708324,112.6241751
+Sego Tempong ABG,14125,4.5,0.8,Kopi,-7.9427454,112.6376146
+Kedai N2,15911,4.1,2.3,Nasi,-7.9548755,112.685886
+Crème,44038,4.0,3.7,Kopi/Cafe,-7.9394861,112.6388712
+Bakso Arief 1996,19729,4.0,1.4,Ayam,-7.9835879,112.6307146
+Restoran Padang Simpang Raya Malang Kauman,16348,4.1,4.4,Kopi,-7.9836503,112.6305857
+Aiciro,14049,4.8,4.3,Nasi,-7.9836133,112.6307082
+Cilok VEDC,23959,4.7,3.7,Mie,-7.9330701,112.6603698
+Sushi Tei - The Courtyard Araya,19185,4.3,4.1,Soto,-7.9357832,112.6507125
+Warung Pitu Masakan Asli Solo,17292,3.8,1.9,Kopi,-7.934272,112.6510912
+TUKU - Malang,31521,4.7,4.2,Kopi/Cafe,-7.967296,112.6155925
+Mie Daging Sapi China Lanzhou,9028,4.7,1.9,Mie,-7.9811178,112.6301656
+Luke Artisan Bakery,27987,4.8,3.9,Kopi/Cafe,-7.9678514,112.6212486
+Sinar Matahari,24962,4.6,2.6,Bakso,-7.9849782,112.6360651
+Warmindo Sebelas,23194,4.7,4.0,Kopi/Cafe,-7.973462,112.6182532
+Warung Nasi Buk Cak Rochman,23804,4.7,4.6,Mie,-7.9794779,112.6124187
+Warmindo Konco Kentel,12837,3.8,3.5,Bakso,-7.9664057,112.6096986
+Warmindo Sam Ndut 14,10659,4.4,4.1,Soto,-7.9723771,112.6065142
+Depot Panjang Umur,13873,3.9,3.6,Nasi,-7.9741784,112.6148349
+Depot Semeru,22072,4.6,1.0,Cemilan,-7.974302,112.6253954
+Ayam Goreng Ria,19001,4.5,4.1,Cemilan,-7.9758364,112.6146741
+"Mie Ayam & Bakso Solo ""PAK NDUT""",18869,4.8,2.9,Cemilan,-7.9667023,112.6691284
+Muraco Headquarter,41639,3.9,0.3,Kopi/Cafe,-7.9324277,112.6293192
+Arasseo Cafe,17754,4.5,1.1,Kopi/Cafe,-7.9746991,112.614269
+Kampoeng Roti,13206,4.8,1.4,Kopi,-7.9805731,112.6273577
+Oppa Express,41144,4.8,2.8,Kopi/Cafe,-7.9786636,112.6292867
+Mie Setan,21455,4.6,0.4,Soto,-7.9788408,112.6252658
+Rawon & Pecel Lama,20547,4.3,4.3,Cemilan,-7.9855514,112.6016736
+Bakso & Mie Pangsit Okeey,14326,3.8,4.1,Soto,-7.9838015,112.6101735
+Richeese Factory Balearjosari,13210,4.5,3.2,Bakso,-7.9222487,112.6524227
+Warung Bu Muna,12412,3.9,3.7,Mie,-7.9831787,112.6150657
+Warung Sederhana Bu Mukri,23875,4.5,3.6,Cemilan,-7.9832637,112.6150749
+Kolektibles,19659,3.9,1.8,Kopi/Cafe,-7.9644128,112.5929172
+Warung Nasi Matos Bu Kesy,14642,4.1,3.2,Ayam,-7.9480074,112.6088545
+Bakso Bakar Pak Man,13268,4.6,4.0,Nasi,-7.9689249,112.634021
+"Warung Kasemo ""Pan Java""",12142,4.9,0.2,Cemilan,-7.9227732,112.5834519
+Milkyland Cafe & Playground,23257,4.2,1.1,Kopi/Cafe,-7.937976,112.5844959
+Critasena,37743,4.7,0.4,Kopi/Cafe,-7.9758033,112.6315957
+Teras Nyaman,42782,4.2,0.1,Kopi/Cafe,-7.9756841,112.5968034
+Warung Lumayan,16712,4.6,2.8,Cemilan,-7.9824026,112.60449
+OYI! Buttermilk Chicken,11501,4.1,4.9,Bakso,-7.9441328,112.6097935
+Bakso Bakar Garuda,11361,4.6,4.3,Cemilan,-7.9334692,112.6613109
+Maju Jaya 57,10265,4.9,4.9,Soto,-7.9855226,112.6242539
+Abudancio Coffee & Eatery,17391,4.6,3.3,Bakso,-7.9424287,112.5556733
+Warung Bi Bi,20491,4.7,1.9,Cemilan,-7.9811195,112.6126518
+Depot Nasi Kuning Hwa Ind,11155,4.2,3.9,Mie,-7.9383342,112.6373028
+Depot Semangkok,22288,4.6,3.6,Soto,-7.9384381,112.6372549
+HD'R Comic Cafe,13542,4.8,4.3,Soto,-7.9450608,112.619999
+Warung Kashimura,19962,4.4,4.2,Kopi,-7.9823871,112.6042987
+RM Padang Roda Baru,10480,4.9,3.7,Soto,-7.9823752,112.603647
+Nasi Goreng Cak Noe,15845,3.9,2.5,Bakso,-7.9829163,112.6063429
+Warung Sate & Gule Kambing Pak Hari,21074,4.3,0.6,Mie,-7.9828664,112.6056858
+CW Coffee & Eatery - Tlogomas,16501,4.1,0.5,Kopi/Cafe,-7.9256202,112.6002539
+Bakwan Borobudur,20245,3.8,2.4,Mie,-7.9388639,112.6373597
+Sixteen Corner,11208,4.8,4.7,Ayam,-7.9387991,112.6371776
+Kedai Ameera Arjosari,24819,4.6,0.4,Bakso,-7.9348918,112.6559762
+Warung A. Putra Pratama,13638,4.6,2.5,Ayam,-7.9831265,112.6070864
+Angkringan RM 46,18744,3.8,1.9,Kopi,-7.9804454,112.5992738
+Rumah Uyut,24204,4.4,2.2,Ayam,-7.9783987,112.6147269
+Kho Kopitiam,19606,4.3,0.9,Soto,-7.9792008,112.6297385
+Bakwan Babi Genjix,10552,4.0,0.3,Kopi,-7.9801241,112.6134295
+Kecap Lidah,17479,4.2,1.0,Cemilan,-7.9766066,112.6284346
+Seduhlur,15860,4.5,1.8,Kopi/Cafe,-7.9395112,112.6332043
+Coffeeshop Kebon Cak Kin,18532,4.2,0.1,Kopi/Cafe,-7.9287487,112.606413
+Chatime,37910,3.9,1.4,Kopi/Cafe,-7.9565089,112.6440139
+Martabak Zidane,17277,4.4,1.2,Kopi,-8.0307265,112.6270031
+Omah Babee,19447,4.6,1.0,Mie,-7.9834658,112.609276
+Bubur Ayam Mangkok Merah,18122,4.6,3.0,Soto,-7.9738884,112.6328344
+Royal Bakery,17729,4.1,2.6,Mie,-7.9521528,112.6396137
+Bebek Goreng Purnama,12788,4.9,3.0,Mie,-7.9826226,112.6029286
+Nasgor Kepo,22821,4.1,5.0,Nasi,-7.9854089,112.6016237
+Penyetan Sambel Loman,19441,4.2,0.1,Nasi,-7.9813652,112.6017068
+Warung Gembira,11859,4.0,1.3,Mie,-7.9813949,112.6017626
+Danny's Bakery,15797,4.3,1.2,Nasi,-7.9312178,112.6570163
+Kedai Makan Sri Semplang,23911,4.2,2.2,Soto,-7.9329441,112.6588489
+Warmindo Frenkie,23356,4.4,2.3,Bakso,-7.9329019,112.6591471
+Dapur Ciprut,13601,4.7,0.7,Nasi,-7.9329006,112.6591178
+Roti Unyil Omari,9668,4.4,1.6,Kopi,-7.9589302,112.6434304
+Madinah Bakery,14652,4.9,0.4,Cemilan,-7.9832145,112.6224298
+Tahu Campur Pak Kumis,13210,4.8,3.0,Soto,-7.9740038,112.6170938
+Akasha,29350,4.1,0.2,Kopi/Cafe,-7.9690611,112.6315846
+SaigonSan Restaurant & Rooftop,10831,4.0,1.9,Ayam,-7.9769101,112.6324768
+Depot Cwie Mie Ayam Teras 25,21724,4.3,4.8,Soto,-7.9751612,112.6220117
+Bakso Bakar Pahlawan TRIP,24788,4.5,2.4,Cemilan,-7.9683241,112.6222505
+Sarabba Warkop,31776,4.8,1.9,Kopi/Cafe,-7.9593058,112.6555292
+Sebaya Coffee,28565,3.8,5.0,Kopi/Cafe,-7.9686941,112.6182961
+Iki Japanese Teriyaki House,17520,4.6,4.3,Cemilan,-7.9668283,112.620009
+Ayam Goreng Karawaci,14485,4.8,2.3,Bakso,-7.9723492,112.6187184
+SA Asli Masakan Padang,11418,4.1,1.9,Mie,-7.9728421,112.612443
+Kedai Ciamso,21154,3.9,1.9,Cemilan,-7.9728802,112.6128346
+Rumah Makan Kairo Jagalan,16693,4.0,3.6,Cemilan,-7.9867761,112.6284335
+Guri Ramen,14493,4.1,3.4,Ayam,-7.9375909,112.6267711
+Boss Coffee,26172,4.0,1.7,Kopi/Cafe,-7.9392702,112.6056891
+Warung Makan Soto Lombok,23437,4.2,2.8,Mie,-7.98651,112.6261334
+Bakso Tengkleng,20226,4.6,4.5,Cemilan,-7.9576845,112.6068126
+Oura,21339,4.7,2.8,Soto,-7.9676384,112.6219631
+Green Leaf Resto,8943,4.5,3.4,Nasi,-7.9672896,112.6213136
+Kedai Kopi,44479,3.9,2.3,Kopi/Cafe,-7.9663563,112.6200302
+Warung Marung,16498,4.7,1.3,Nasi,-7.9473715,112.6122811
+Madinah,16085,4.8,2.1,Nasi,-7.946022,112.6091082
+Pizza Hut,22347,4.8,3.0,Bakso,-7.9517094,112.6394892
+Bingsoo,37940,4.1,2.4,Kopi/Cafe,-7.9608717,112.6133705
+MaLiBu Steak 'n' Pizza,15137,4.0,3.5,Nasi,-7.9654573,112.605228
+Rumah Makan Kaliurang,16878,4.5,1.5,Ayam,-7.9627374,112.6321537
+Warung Anugrah,18601,4.8,4.1,Mie,-8.0304657,112.6416593
+Warung Arema,14636,4.5,0.4,Cemilan,-8.0307857,112.6410913
+Warung Hermanto,24794,4.8,3.0,Cemilan,-8.0307764,112.6406515
+Surya Cafe,44299,4.4,1.1,Kopi/Cafe,-7.9348167,112.6076086
+Kober Mie,9052,4.8,4.0,Mie,-7.9485056,112.6167834
+Excelso,17437,4.5,0.2,Nasi,-7.9477411,112.6173877
+Gerprek Pahlawan,12174,4.1,1.3,Ayam,-7.9487593,112.6167174
+Restoran Melati,13822,4.7,3.0,Mie,-7.9772138,112.6329199
+Martabak Agung Resto,21787,3.9,0.3,Mie,-7.9834345,112.6318601
+Java Dancer,35502,4.2,4.4,Kopi/Cafe,-7.9654406,112.6205104
+Mamah Sum,13187,4.2,1.0,Cemilan,-7.9658817,112.6202483
+Batavia Resto,9125,4.1,0.4,Bakso,-7.9646956,112.620174
+The Grove Cafe,15653,4.8,3.5,Kopi/Cafe,-7.9725504,112.6184444
+Kaizen,17462,4.7,1.2,Ayam,-7.9725672,112.6182542
+Neo Kedaton,15532,4.4,0.3,Kopi,-7.9726178,112.6197656
+Warung Rindu,17969,4.0,0.4,Kopi,-7.9676886,112.6253919
+Bangi Kopitiam,27326,4.5,4.0,Kopi/Cafe,-7.9699231,112.6192947
+Warung Lesehan Yogyakarta,15899,4.3,4.4,Mie,-7.9669861,112.5998586
+Sego Sambel,13972,4.6,2.3,Kopi,-7.9612736,112.5993403
+Marugame Udon,8295,4.3,3.9,Bakso,-7.973301,112.6232349
+Ayam Bakar Wong Solo,16237,4.1,1.1,Nasi,-7.9795674,112.6265892
+Bubur Jang Kie,22321,4.5,3.2,Cemilan,-7.9744705,112.6145375
+Special Soto Boyolali SSB Hj. Hesti Widodo,16188,4.5,1.1,Cemilan,-7.9746895,112.6131482
+Cafe Litchi,20794,4.0,3.6,Kopi/Cafe,-7.9746806,112.6133297
+Chandra Bakery,11352,4.8,0.6,Kopi,-7.976532,112.6129787
+Warung Subuh,9254,4.1,0.6,Cemilan,-7.9762945,112.6128892
+Ayam Lodho Malang,11053,4.8,4.7,Nasi,-7.9530069,112.6405236
+Warung Bu Kris,17115,4.8,3.9,Ayam,-7.9525753,112.6423973
+Par Muse,19140,3.8,1.6,Kopi/Cafe,-7.93906,112.6363662
+Omah Candi Cafe,33054,4.1,3.5,Kopi/Cafe,-7.9421185,112.6407238
+Depot Santo Yusup,20557,4.6,1.8,Mie,-7.9400741,112.6385445
+AADK Coffee & Eatery,18152,4.8,0.6,Bakso,-7.9323045,112.603261
+Ayam Geprek Sa`i,10548,4.4,4.7,Bakso,-7.985009,112.6017086
+Warung Prasmanan Pagi 99,8902,4.6,1.9,Ayam,-7.9666076,112.6600686
+Nowhere Cafe,35190,4.2,4.7,Kopi/Cafe,-7.9574737,112.617239
+Ayam Goreng Pemuda,17584,4.2,4.4,Soto,-7.9754338,112.6265385
+Richeese Factory,13116,4.6,1.5,Kopi,-7.9657046,112.6243301
+Onokatsu,23576,4.8,3.2,Mie,-7.9726929,112.6134745
+Warung GP,16729,4.1,4.7,Nasi,-7.9556057,112.5898206
+Rawon Isor Uwit,17791,4.5,1.8,Nasi,-7.9730294,112.6170438
+Nomu,13463,4.8,2.7,Soto,-7.9738854,112.6181798
+Kopi Ortu,37711,3.9,1.1,Kopi/Cafe,-7.9742261,112.6161781
+Tahu telor,21006,4.0,4.9,Nasi,-7.9661595,112.6175257
+Kantin Fakultas Ilmu Pendidikan,19960,4.2,1.6,Ayam,-7.9630336,112.6150039
+Kantin Pak Japan Fakultas Sastra,20541,3.9,2.7,Mie,-7.9605579,112.6164515
+Kopitom,24564,4.3,2.1,Kopi/Cafe,-7.9405746,112.6605036
+Moshi Moshi Ramen,11570,4.7,3.2,Nasi,-7.9753621,112.6191232
+Depot Kawi 21,11327,4.4,1.6,Ayam,-7.975302,112.6189465
+Depot Purnama,10659,4.4,4.2,Nasi,-7.9752623,112.6188477
+Sate Ayam dan Kambing Sakinah,11160,4.8,3.4,Ayam,-7.9822213,112.6032359
+Cafe Omah nDeso,17867,4.4,0.2,Soto,-7.9793124,112.5650729
+Warung Guyub Rukun,12484,4.5,3.6,Mie,-7.9789952,112.6130931
+Zocco,37196,4.2,3.5,Kopi/Cafe,-7.9726027,112.6135077
+Sate Babi 99 Chinese Food,20284,4.5,0.8,Ayam,-7.9741612,112.6170908
+Pawvillion Dog Café,23736,4.2,0.4,Kopi/Cafe,-7.9790737,112.6126344
+Kos Redisa,24978,4.6,2.5,Kopi,-7.9724888,112.6065463
+The Arbanat,30381,4.1,3.2,Kopi/Cafe,-7.9721789,112.6072789
+Kotäsk Kaffe Co.,22637,4.3,2.0,Kopi/Cafe,-7.975543,112.6122942
+Warkop Agam Banglades,24678,4.7,2.6,Soto,-7.9751414,112.6124168
+"Pondok Wisata Latar Ombo ""L.O.""",18815,3.8,4.7,Bakso,-7.9780662,112.561817
+Lataran Sendayu,24037,4.6,0.6,Kopi,-7.9486274,112.5611587
+Sabana Fried Chicken,18888,4.4,1.7,Ayam,-7.9821007,112.6027924
+Kopicu,28385,4.5,1.4,Kopi/Cafe,-7.9777784,112.6057605
+Sari Lambau,21578,4.9,5.0,Kopi/Cafe,-7.9779611,112.6197328
+Piring Asia,17253,4.4,3.2,Cemilan,-7.9725902,112.6195949
+Mutiara Minang,24891,4.4,3.0,Mie,-7.9685507,112.6135623
+Gogo Fried Chicken,23124,4.8,4.9,Cemilan,-7.9676013,112.6132974
+Galang 8,16449,4.1,3.4,Soto,-7.9752368,112.6187826
+Rawon Tessy,9964,4.2,3.5,Cemilan,-7.9751386,112.6184596
+Citra,14942,4.2,4.2,Soto,-7.9751429,112.618517
+Legit,16849,4.9,1.4,Bakso,-7.975195,112.6186354
+Roti Andalas,13800,4.7,0.1,Mie,-7.9750812,112.6182778
+Naiki,16394,4.2,2.7,Kopi/Cafe,-7.9750407,112.626289
+Kopi Kenangan,32217,4.2,3.1,Kopi/Cafe,-7.9755435,112.6196246
+Nasi Bhuk Kawi Hj. Saudah,14976,4.1,3.3,Bakso,-7.9755794,112.6197021
+Suryamas,10277,3.9,4.5,Kopi,-7.9755485,112.6196728
+Depot Gang Djangkrik,22276,4.8,3.2,Ayam,-7.9754141,112.6192432
+Sate Ayam Ponorogo Siboen,11365,4.2,4.2,Bakso,-7.9754087,112.6192826
+Kedai Soto Banjar,12671,4.0,3.2,Cemilan,-7.9764987,112.620258
+Ayam Goreng Rempah Lohjinawi,8305,4.7,2.7,Nasi,-7.9742595,112.6157135
+Marugoya Sushi Dining,11833,4.0,1.4,Kopi,-7.9758603,112.6202798
+Rawon Jenggot,12941,4.8,1.6,Kopi,-7.9751724,112.6180012
+Ovenmuni,17089,4.8,1.3,Cemilan,-7.97551,112.6194044
+Depot Widari,19631,3.9,2.5,Cemilan,-7.9755396,112.6194675
+Depot Varia,11199,4.5,1.1,Soto,-7.9755336,112.6195778
+Pecel Kawi Hj. Musilah,19691,4.1,3.3,Nasi,-7.9757285,112.6200013
+Bakso Pak Rindu,13916,4.0,1.8,Kopi,-7.9822525,112.602893
+Bakso Solo Pak Dji,14824,4.8,2.5,Soto,-7.9822221,112.6085327
+Mie Pangsit & Bakso Atlantik,19681,4.3,3.6,Bakso,-7.9837156,112.6142543
+Common Grounds Malang,17920,4.0,2.9,Kopi/Cafe,-7.9619231,112.5903404
+Ejji Coffee House,38604,4.2,4.6,Kopi/Cafe,-7.9787603,112.6140022
+Bakwan Subur B2/Babi,20319,4.2,0.6,Kopi,-7.9791136,112.6140812
+Atenk Cuisine,11811,4.0,0.5,Mie,-7.9790603,112.6141434
+Sego Srimben Bu Tjipto,18807,4.1,4.5,Mie,-7.9788865,112.6136131
+Chicken Box,8118,4.0,3.5,Nasi,-7.9787637,112.6129585
+Pecel & Soto Khas Pacitan,13756,4.4,4.9,Soto,-7.9971005,112.6003388
+Dapur Meme,12727,3.9,1.9,Mie,-7.9761412,112.6144914
+Special Belut Mergan,8212,4.4,3.5,Bakso,-7.9838679,112.6126235
+Pangsit Mie & Wonton Kuah Rejeki,14885,4.1,3.0,Cemilan,-7.9822818,112.6039325
+Fosco by MCafe,13642,4.1,2.1,Bakso,-7.9806346,112.6137567
+Sego Sambel Cak Uut,24319,4.2,2.0,Bakso,-7.9789696,112.6113007
+Potre Koneng Ayam Kremes Madura,12944,4.0,2.8,Cemilan,-7.973079,112.6157743
+Sego Sambel Tegal Phutuk,23831,4.0,2.5,Cemilan,-7.9498167,112.5630829
+Warung Bu Dina,19018,4.2,1.5,Nasi,-7.9736578,112.58704
+eighthaus.co,28954,4.7,4.7,Kopi/Cafe,-7.9809622,112.6129298
+Pujasera Kantor Pos,22299,4.9,0.2,Ayam,-7.9836015,112.6300935
+Warteg Orens Bahari,20266,4.4,1.8,Mie,-7.9369374,112.6379481
+Pujasera Candu,15385,4.9,3.3,Ayam,-7.9465912,112.6084653
+Bakwan Nita Pangsit Mie Ayam,16052,4.3,0.1,Cemilan,-7.9833999,112.6082337
+Masakan Padang Ampera Berkah,14683,4.3,2.2,Ayam,-7.9831707,112.6074974
+Kogu,26130,4.8,1.2,Kopi/Cafe,-7.9776429,112.6149377
+Warung Pojok Nyamleng,17333,4.7,3.0,Nasi,-7.9786724,112.6150963
+Bakso Gun,19618,4.3,1.6,Cemilan,-7.9756678,112.6198682
+Djavu Coffee,34271,4.1,0.2,Kopi/Cafe,-7.9812055,112.6136021
+Mie Ayam & Bakso Solo Pak Jarot,24612,4.2,4.3,Mie,-7.9795422,112.6139635
+Tulang Ayam Lunak Mbok Surip,19357,4.3,4.6,Mie,-7.9799883,112.6266385
+Warung Sawahan,22669,4.0,1.0,Nasi,-7.9858284,112.626306
+Warung Kiroman,8953,4.2,2.4,Mie,-7.9856656,112.6259897
+Dapur Kita,24158,4.4,3.6,Ayam,-7.9878378,112.6254098
+Istana Roti Al-Hikmah,10465,4.0,0.7,Kopi,-7.9825283,112.6027507
+Warung Langsep,18799,4.8,1.7,Cemilan,-7.9825492,112.6146666
+Cafe Bunker Gedong Ijen,19593,4.2,3.4,Kopi/Cafe,-7.976226,112.6201627
+Sambal Bakar Sultan,21737,4.4,0.3,Bakso,-7.9729467,112.6170002
+Al-Mubarok,16403,4.4,1.3,Ayam,-7.9729911,112.6170241
+Djawara,34383,4.7,3.5,Kopi/Cafe,-7.9731954,112.6171055
+Warung Rezeki,13542,4.3,3.1,Cemilan,-7.9731185,112.6170806
+Pecel Mustika Panderman,13848,4.7,2.9,Cemilan,-7.9734182,112.6171339
+Legi Pait,25931,4.1,4.8,Kopi/Cafe,-7.973374,112.6346506
+Javanine,15241,4.3,4.3,Bakso,-7.967155,112.62097
+"Warung Prasmanan Bu ""Dhe"" Har",14444,4.5,4.7,Soto,-7.978966,112.6595417
+Madame Wang Secret Garden,9988,4.0,4.1,Kopi,-7.9728184,112.6189968
+Warung Samudra,20338,3.9,1.6,Soto,-7.9837146,112.6142277
